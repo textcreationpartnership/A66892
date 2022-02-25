@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The associators cashier'd proving by undeniable arguments, as well as by the testimony of their own mouthes, that the late endeavours of some restless spirits were, 1. to enervate monarchy, 2. to subvert the institution of English-parliaments, and usher in the power of the sword.</title>
+            <author>Womock, Laurence, 1612-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66892</idno>
+            <idno type="STC">Wing W3337</idno>
+            <idno type="STC">ESTC R20240</idno>
+            <idno type="EEBO-CITATION">12733755</idno>
+            <idno type="OCLC">ocm 12733755</idno>
+            <idno type="VID">66522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66522)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 994:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The associators cashier'd proving by undeniable arguments, as well as by the testimony of their own mouthes, that the late endeavours of some restless spirits were, 1. to enervate monarchy, 2. to subvert the institution of English-parliaments, and usher in the power of the sword.</title>
+                  <author>Womock, Laurence, 1612-1685.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Walter Davis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to Laurence Womock. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Great Britain --  Controversial literature.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66522:1"/>
+            <pb facs="tcp:66522:1" rendition="simple:additions"/>
+            <p>THE ASSOCIATORS CASHIER'D. PROVING By undeniable Arguments, as well as by the Teſtimony of their own Mouthes, That the late Endeavours of ſome Reſtleſs Spirits WERE,
+<list>
+                  <item>1. <hi>To enervate MONARCHY.</hi>
+                  </item>
+                  <item>2. <hi>To ſubvert the Inſtitution of</hi> Engliſh-Parliaments, <hi>and uſher in the Power of the</hi> Sword.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Walter Davis.</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:66522:2"/>
+            <pb facs="tcp:66522:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>SEEING they have publiſhed an</hi> Exact Collection <hi>of their</hi> Debates <hi>in the Houſe of</hi> Commons, <hi>I hope the Gentlemen will give us leave to make our Judgment on them. And I cannot but obſerve, that they thought themſelves con<g ref="char:EOLhyphen"/>cern'd to be provided of ſuch an</hi> Army <hi>as is deſign'd by the for<g ref="char:EOLhyphen"/>mer</hi> Aſſociation.</p>
+            <p>
+               <hi>To this purpoſe, conſider what is ſaid,</hi> p. <hi>244. by Sir</hi> H. C. Jan. <hi>7. 1681.</hi> Things are ſo out of order <hi>(Mr. Speaker)</hi> and ſuch pre<g ref="char:EOLhyphen"/>valent endeavours are uſed to unſettle them more, that I am afraid, not onely of our Religion, but of the very Government and <hi>Being</hi> of the <hi>Engliſh</hi> Nation: For if theſe things ſhould occaſion <hi>BLOOD,</hi> while the <hi>French</hi> is ſo powerful, He may eaſily have the Caſting Voice; and without that, onely God knows what may be the end of ſuch Con<g ref="char:EOLhyphen"/>fuſions as ſome men endeavour to occaſion.</p>
+            <p>
+               <hi>But</hi> J. B. <hi>is more expreſs and poſitive.</hi> Sir, <hi>ſaith he,</hi> Will not all the Expedients that have been talked of, or can be imagined, leave us to <hi>conteſt</hi> with our <hi>Lawful Prince;</hi> and that aſſiſtance which he is well aſſured of, not onely from the <hi>Papiſts</hi> here, but in <hi>Ireland,</hi> and from <hi>France</hi> and <hi>Scotland,</hi> I am afraid enough to make it a Meaſuring Caſt, And is the Proteſtant Intereſt ſo low, that though our dangers be ſo great, that inſtead of a <hi>Sword</hi> to defend our ſelves, we muſt be content with a <hi>Sheath?</hi> I am not for cheating thoſe that ſent me here, I think it much more for the Intereſt of the Nation, that we ſhould have no Laws, than ſuch as will but <hi>Trepan</hi> us, by failing us like rotten Crutches when we have occaſion to depend on them. I had rather loſe my Life and my Re<g ref="char:EOLhyphen"/>ligion, becauſe I were not able to defend it, than be <hi>fool'd</hi> out of it by depending on ſuch Laws. I take it for granted, that ſeeing the <hi>Exclu<g ref="char:EOLhyphen"/>ſion-Bill</hi> is thought too much for us, and ſuch great endeavours are uſed to preſerve the ſtrength and Intereſt of that Party, that we muſt either ſubmit, or defend our Religion by a <hi>ſharp Conteſt;</hi> and therefore I hope we ſhall not depend upon Laws that will tend to weaken us.</p>
+            <p>
+               <hi>And (2.) That the</hi> ASSOCIATION <hi>in the time of Queen</hi> Elizabeth <hi>would not ſerve their turn, is clear,</hi> p. <hi>183.184. by the Speech of Sir</hi> W. J. <hi>in theſe words;</hi> But I am perſwaded, Sir, if this <hi>Aſſociation-Bill</hi> be made <hi>as it ſhould be</hi> that we ſhall have no better Succeſs with it than we had with the <hi>Excluſion-Bill.</hi> For I am afraid, that though we are ſuffered to <hi>brandiſh our Weapons,</hi>
+               <pb facs="tcp:66522:3"/>yet that we ſhall not be allowed to <hi>wound Popery;</hi> but rather do be<g ref="char:EOLhyphen"/>lieve, that they which adviſed the throwing out of that Bill, will alſo do the ſame by this, or diſſolve the Houſe before it come to Perfection: For <hi>this Bill</hi> muſt be <hi>much ſtronger</hi> than that in Queen <hi>Elizabeths</hi> dayes; That was for an <hi>Aſſociation</hi> onely after her Death, but I can<g ref="char:EOLhyphen"/>not tell if ſuch a <hi>Bill</hi> will ſecure us now, the circumſtances we are un<g ref="char:EOLhyphen"/>der being very different. In <hi>Q. Elizabeth's</hi> dayes the Privy Councellors were all for the <hi>Queens</hi> Intereſt, and none for the <hi>Succeſſor</hi>'s; now <hi>moſt</hi> of the Privy Councellors are for the <hi>Succeſſor</hi>'s, and <hi>few</hi> for the <hi>King</hi>'s. Then the Miniſters unanimouſly agreed to keep out <hi>Popery,</hi> now we have too much reaſon to fear, <hi>there are many that are for bringing it in.</hi> In thoſe days they all agreed to keep the <hi>Popiſh Suc<g ref="char:EOLhyphen"/>ceſſor</hi> in <hi>Scotland,</hi> now the <hi>major part</hi> agreed to keep the <hi>Succeſſor</hi> here; All which muſt be conſidered in drawing up the Bill. <hi>Hereupon,</hi>
+            </p>
+            <p>Reſolved, <hi>That it is the opinion of this Committee, that the Houſe be moved, that a Bill be brought in for an</hi> Aſſociation <hi>of all his Majeſties Proteſtant Subjects, for the Safety of his Majeſties Perſon, the Defence of the Proteſtant Religion, and the Preſer<g ref="char:EOLhyphen"/>vation of his Majeſties Proteſtant Subjects, againſt all Invaſions and oppoſitions; and for preventing the</hi> D. <hi>of</hi> York <hi>or any other Papiſt from ſucceeding to the Crown.</hi>
+            </p>
+            <p>
+               <hi>What</hi> Alliance <hi>this</hi> Reſolution <hi>has to the fore-mentioned</hi> Aſſo<g ref="char:EOLhyphen"/>ciation, <hi>let the Reader judge.</hi>
+            </p>
+            <p>
+               <hi>Nay, I have obſerved ſomething farther, out of the Arraign<g ref="char:EOLhyphen"/>ment of the</hi> E. <hi>of</hi> Shaftsb. p. <hi>34. which makes me highly confi<g ref="char:EOLhyphen"/>dent, that Seditious and Treaſonable Piece was drawn up by a Club of Commoners, or a cloſe Committee of the H. of C. Head<g ref="char:EOLhyphen"/>ed by that Lord. I ſhall (for proof) tranſcribe a few particulars,</hi> viz: The Arraignment of the <hi>E.</hi> of <hi>Shaftsbury,</hi> p. <hi>34.</hi>
+            </p>
+            <sp>
+               <speaker>Foreman.</speaker>
+               <p>
+                  <hi>Mr. Secretary, I would ask you ſome queſtions. If you did not know of a Debate in the Parliament of an</hi> Aſſociation?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Secret.</speaker>
+               <p>
+                  <hi>I was not preſent at the Debate; but there was a talk in Town of an Aſſociation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Foreman.</speaker>
+               <p>
+                  <hi>Did not you hear of it in Parliament?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Secret.</speaker>
+               <p>
+                  <hi>Indeed there was an Anſwer to a Meſſage from the Houſe of Commons that had ſomething in it that did ſtrangely imply an Aſſociation; but this particular Aſſociation I do not remember to have heard propos'd.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Foreman.</speaker>
+               <p>
+                  <hi>Don't you remember in the Houſe of Commons, Sir, it was read upon occaſion of that Bill?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Secret.</speaker>
+               <p>
+                  <hi>I heard ſuch a thing ſpoke of, but at the reading of it I was not preſent, to the beſt or my remembrance.</hi>
+               </p>
+            </sp>
+            <div type="covenant">
+               <pb n="3" facs="tcp:66522:3"/>
+               <head>The Paper which was Seized in the E. of <hi>Shaftsbury</hi>'s Cloſet, by <hi>Fran. Gwin,</hi> Eſq; one of the Clerks of His Majeſties Moſt Ho<g ref="char:EOLhyphen"/>nourable Privy Council, and Read <hi>Novemb.</hi> 24. 1681. at the <hi>Old Baily,</hi> before His Ma<g ref="char:EOLhyphen"/>jeſties Commiſſioners of <hi>Oyer</hi> and <hi>Terminer.</hi>
+               </head>
+               <p>WE the Knights, <hi>&amp;c.</hi> Finding to the grief of our Hearts, the Popiſh Prieſts and Ieſuits, with the Pa<g ref="char:EOLhyphen"/>piſts, and their Adherents and Ab<g ref="char:EOLhyphen"/>bettors, have for ſeveral years laſt paſt purſued a moſt pernicious and helliſh Plot, to root out the true Proteſtant Religion as a peſtilent Hereſie, to take away the Life of our Gracious King, to ſubvert our Laws and Liberties, and to ſet up Ar<g ref="char:EOLhyphen"/>bitrary power and Popery.</p>
+               <p>And it being Notorious that they have béen highly encouraged by the Countenance and Protection given and procured for them by <hi>J. D.</hi> of <hi>Y.</hi> and by their Ex<g ref="char:EOLhyphen"/>pectations of his ſuccéeding to the Crown, and that through crafty Popiſh Councils, his Deſigns have ſo far prevailed that he hath created many and great Dependents upon him by his beſtowing Offices and Preferments both in Church and State.</p>
+               <pb n="4" facs="tcp:66522:4"/>
+               <p>It appearing alſo to us, That by his Influence, Mercenary Forces have béen levied and kept on Foot for his ſecret Deſigns contrary to our Laws; the Officers thereof having béen named and appointed by him, to the appparent hazard of His Majeſties Perſon, our Religion and Government, if the dan<g ref="char:EOLhyphen"/>ger had not béen timely foreſéen by ſeveral Parlia<g ref="char:EOLhyphen"/>ments, and part of thoſe Forces with great difficul<g ref="char:EOLhyphen"/>ty, cauſed by them to be Disbanded at the Kingdoms great Expence: And it being evident, that not<g ref="char:EOLhyphen"/>withſtanding all the continual endeavours of the Par<g ref="char:EOLhyphen"/>liament to deliver His Majeſty from the Councils, and out of the power of the ſaid <hi>D.</hi> yet his Intereſt in the Miniſtry of State and others have béen ſo prevalent, that Parliaments have béen unreaſonably Prorogued, and Diſſolved when they have béen in hot purſuit of the Popiſh Conſpiracies, and ill Mi<g ref="char:EOLhyphen"/>niſters of State their Aſſiſtants.</p>
+               <p>And that the ſaid <hi>D.</hi> in order to reduce all into his own power, hath procured the Garriſons, the Army and Ammunition, and all the power of the Seas and Souldiery, and Lands belonging to theſe thrée Kingdoms, to be put inco the hands of his party and their Adherents, even in oppoſition to the Advice and Order of the laſt Parliament.</p>
+               <p>And as we conſidering with heavy Hearts how greatly the Strength, Reputation and Treaſure of the Kingdom both at Sea and Land is Waſted and Conſumed, and loſt by the intricate expenſive ma<g ref="char:EOLhyphen"/>nagement of theſe wicked deſtructive Deſigns; and finding the ſame Councils after exemplary Iuſtice upon ſome of the Conſpirators, to be ſtill purſued with the utmoſt deviliſh malice, and deſire of Re<g ref="char:EOLhyphen"/>venge;
+<pb n="5" facs="tcp:66522:4"/>whereby his Majeſty is in continual hazard of being Murdered to make way for the ſaid <hi>D</hi>'s Ad<g ref="char:EOLhyphen"/>vancement to the Crown, and the whole Kingdom in ſuch caſe is deſtitute of all ſecurity of their Religion, Laws, Eſtates, and Liberty, ſad experience in the Caſe, Quéen <hi>Mary</hi> having proved the wiſeſt Laws to be of little force to kéep out Popery and Tyranny un<g ref="char:EOLhyphen"/>der a Popiſh Prince.</p>
+               <p>We have therefore endeavoured in a Parliamenta<g ref="char:EOLhyphen"/>ry way by a Bill for the purpoſe to Bar and Exclude the ſaid Duke from the Succeſſion to the Crown, and to Baniſh him for ever out of theſe Kingdoms of <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Ireland.</hi> But the firſt Means of the King and Kingdoms Safety being utterly rejected, and we left almoſt in Deſpair of obtaining any real and ef<g ref="char:EOLhyphen"/>fectual ſecurity, and knowing our ſelves to be in<g ref="char:EOLhyphen"/>truſted to Adviſe and Act for the preſervation of His Majeſty and the Kingdom, and being perſwaded in our Conſciences that the dangers aforeſaid are ſo eminent and preſſing, that there ought to be no de<g ref="char:EOLhyphen"/>lay of the beſt means that are in our power to ſecure the Kingdom againſt them. We have thought fit to propoſe to all true Proteſtants an Vnion amongſt themſelves by ſolemn and ſacred promiſe of mutual Defence and Aſſiſtance in the preſervation of the true Proteſtant Religion, His Majeſties Perſon and Royal State, and our Laws, Liberties and Proper<g ref="char:EOLhyphen"/>ties, and we hold it our bounden Duty to joyn our ſelves for the ſame intent in a Declaration of our Vnited Affections and Reſolutions in the Form in<g ref="char:EOLhyphen"/>ſuing,</p>
+               <pb n="6" facs="tcp:66522:5"/>
+               <p>
+                  <hi>I A.B.</hi> Do in the preſence of God Solemnly Promiſe, Vow, and Proteſt to maintain and defend to the ut<g ref="char:EOLhyphen"/>moſt of my Power, with my Perſon and Eſtate, the true Proteſtant Religion againſt Popery and all Po<g ref="char:EOLhyphen"/>piſh ſuperſtition, Idolatry, or Innovaſion,) and all thoſe who do or ſhall endeavour to ſpread or advance it within this Kingdom.</p>
+               <p>I will alſo as far as in me lies, maintain and defend His Majeſties Royal Perſon and Eſtate; as alſo the power and priviledge of Parliaments, the lawful Rights and Liberties of the Subject, againſt all Incroachments and Vſurpation of Arbi<g ref="char:EOLhyphen"/>trary power whatſoever, and endeavour intirely to Disband all ſuch mercenary Forces as we have rea<g ref="char:EOLhyphen"/>ſon to believe, were raiſed to Advance it, and are ſtill kept up in and about the City of <hi>London</hi> to the great Amazement and Terrour of all the good people of the Land.</p>
+               <p>Moreover <hi>J. D.</hi> of <hi>Y.</hi> having publickly profeſſed and owned the Popiſh Religion, and notoriouſly gi<g ref="char:EOLhyphen"/>ven Life and Birth to the Damnable and Helliſh Plots of the Papiſts againſt His Majeſties Perſon, the Proteſtant Religion, and the Government of this Kingdom; I will never conſent that the ſaid <hi>J. D.</hi> of <hi>Y.</hi> or any other, who is or hath béen a Papiſt, or any ways adher'd to the Papiſts in their wicked Deſigns be admitted to the Succeſſion of the Crown of <hi>England.</hi> But by all lawful means and by force of Arms, if néed ſo require, according to my Abili<g ref="char:EOLhyphen"/>ties, will oppoſe him, and endeavour to Subdue, Expel and Deſtroy him, if he come into <hi>England,</hi> or the Dominions thereof; and ſéek by force to ſet up his pretended Title, and all ſuch as ſhall Adhere
+<pb n="7" facs="tcp:66522:5" rendition="simple:additions"/>unto him, or raiſe any War, Tumult, or Sedition for him, or by his Command, as publick Enemies of our Laws, Religion and Country.</p>
+               <p>To this end we, and every one of us whoſe hands are here under-written, do moſt willingly bind our ſelves and every one of us unto the other, joyntly and ſeverally, in the bond of one firm and loyal So<g ref="char:EOLhyphen"/>ciety or Aſſociation, and do promiſe and vow before God, That with our joynt and particular Forces we will oppoſe and purſue unto Deſtruction all ſuch as upon any Title whatſoever ſhall oppoſe the Iuſt and Righteous ends of this Aſſociation; and Main<g ref="char:EOLhyphen"/>tain, Protect and Defend all ſuch as ſhall enter into it, and the juſt performance of the true intent and meaning of it. And leſt this juſt and pious work ſhould be any ways obſtructed or hindered for want of Diſcipline and Conduct, or any evil-minded perſons under pretence of raiſing Forces for the ſervice of this Aſſociation, ſhould attempt or commit Diſorders, we will follow ſuch Orders as we ſhall from time to time receive from this preſent Parliament, whileſt it ſhall be ſitting, or the major part of the Members of both Houſes ſubſcribing this Aſſociation when it ſhall be Prorogued or Diſſolved, and obey ſuch Offi<g ref="char:EOLhyphen"/>cers as ſhall by them be ſet over us in the ſeveral Countries, Cities, and Burroughs, until the next méeting of this or another Parliament, and will then ſhew the ſame Obedience and Submiſſion unto it, and thoſe who ſhall be of it.</p>
+               <p>Neither will we for any reſpect of Perſons or Cauſes, or for Fear, or Reward ſeparate our ſelves from this Aſſociation, or fail in the Proſecution there<g ref="char:EOLhyphen"/>of during our Lives, upon pain of being by the reſt of
+<pb n="8" facs="tcp:66522:6"/>us proſecuted, and ſuppreſſed as perjur'd perſons, and publick Enemies to God, the King, and our Na<g ref="char:EOLhyphen"/>tive Countrey.</p>
+               <p>To which pains and puniſhments we do volunta<g ref="char:EOLhyphen"/>rily ſubmit our ſelves, and every one of us, without benefit of any Colour or Pretence to excuſe us.</p>
+               <closer>
+                  <signed>In Witneſſes of all which Premiſſes to be inviola<g ref="char:EOLhyphen"/>bly kept, we do to this preſent Writing put our Hands and Seals, and ſhall be moſt ready to accept and admit any others hereafter into this Society and Aſſociation.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:66522:6"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>YOU have turned me to a hard Chapter; for ſo it is, to give you my opinion of the <hi>Aſſociation,</hi> that lyes under ſo great debate. I muſt tell you, 'tis a <hi>Riddle</hi> not eaſie to be deciphered; The <hi>Aſſertors</hi> of it call them<g ref="char:EOLhyphen"/>ſelves a <hi>Society</hi>
+                  <note n="*" place="margin">The Bond of one Firm and Loyal Society, <hi>after the Proteſt: And</hi> This Society <hi>at the end.</hi>
+                  </note>, and twice for failing. This, Sir, is the <hi>Diſtinctive Character</hi> of the <hi>Jeſuites,</hi> and you muſt imagine an Inſtrument of ſuch a <hi>Make,</hi> is full of <hi>Mental Reſerves</hi> and <hi>Equivocations;</hi> for ſeeing they have ſo auſpiciouſly aſſumed <hi>their Title</hi> and <hi>Ap<g ref="char:EOLhyphen"/>pellative,</hi> 'twill be hard if you will not allow them to imi<g ref="char:EOLhyphen"/>tate ſomething of their <hi>Practice.</hi>
+               </p>
+               <p>The <hi>Body</hi> of this Monſter has already been moſt accurate<g ref="char:EOLhyphen"/>ly diſſected by skilful hands, and ingenious Lectures read upon every <hi>Member, Vein</hi> and <hi>Muſcle</hi> of it. If you think there may be ſomething yet in the Belly of this <hi>Trojan</hi> Horſe, that is worthy of your notice, at your command, I ſhall venture in to ſearch it.</p>
+               <p>
+                  <hi>We the Knights:</hi> They were influenced (it ſeems) by one of <hi>the other Houſe,</hi> in whoſe <hi>Cuſtody</hi> this Inſtrument
+<pb n="10" facs="tcp:66522:7"/>was found, if he were not rather the crafty <hi>Contriver</hi> of it. A perſon ſo well known, there's no need of any new Character to deſcribe him: How he has play'd <hi>faſt and looſe</hi> both with King and Subject, needs no other inſtance to demonſtrate than the ſhutting up of the <hi>Exchequer.</hi> Having been at the head of ſo many Seditious <hi>Juncto</hi>'s, Trayterous <hi>Cabals, Councils of State,</hi> uſurped and Tyrannical Juriſdicti<g ref="char:EOLhyphen"/>ons, you may very well conclude, though he hath learn'd the Art of <hi>ſhifting</hi> ſides, he is not over-ſtockt with <hi>Loyal<g ref="char:EOLhyphen"/>ty.</hi> If any inſolency in his carriage has made him <hi>jealous</hi> that he is obnoxious to a <hi>high</hi> diſpleaſure, no wonder the diſcontents ariſing from ſuch <hi>Reflections,</hi> ſhould prompt him to the courſes he has taken; 'Tis natural for the wounded <hi>Deer</hi> to run into the common <hi>Herd</hi> for ſhelter. And ſuch is the Spirit of our little <hi>Heroe,</hi> whatever ſtands in the way of his Ambition, he'll leave nothing unattempt<g ref="char:EOLhyphen"/>ed to remove it. Let Religion ſink or ſwim among the States General, <hi>Delenda Carthago</hi> is his <hi>Motto.</hi>
+               </p>
+               <p>But let's proceed: <hi>We the Knights,</hi> &amp;c.] This [&amp;c.] is a fatal <hi>Character,</hi> if we can remember that <hi>Et caetera-Oath</hi> which made ſuch a hideous noiſe in the year 40.</p>
+               <q>
+                  <l>Thou art the curled lock of Antichriſt;</l>
+                  <l>Rubbiſh of <hi>Babel;</hi> for who will not ſay,</l>
+                  <l>Tongues are confounded in <hi>Et caetera?</hi>
+                  </l>
+                  <l>Who views it well, with the ſame eye beholds</l>
+                  <l>The old falſe Serpent in his numerous folds.</l>
+                  <l>The Banes are ask'd, and now the times give way,</l>
+                  <l>Betwixt <hi>Smectymnus</hi> and <hi>Et caetera.</hi>
+                  </l>
+               </q>
+               <pb n="11" facs="tcp:66522:7"/>
+               <p>Something certainly is involved in the ſubtile twirl of this <hi>Dragons</hi> Tayl: If they be <hi>True Proteſtants,</hi> in the ſenſe of theſe <hi>Aſſociates,</hi> they muſt be ſuch as Proteſt againſt the <hi>preſent</hi> Church of <hi>England,</hi> the <hi>Succeſſion</hi> of the Crown, and the <hi>Brittiſh</hi> Monarchy. Here we have the very <hi>Spawn</hi> of the <hi>Presbyterian</hi> fruitfulneſs, <hi>Independents, Ranters, Quakers,</hi> with the reſt of the <hi>Fanaticks</hi> (which proceed from the <hi>Presbyterian,</hi> by an <hi>equivocal</hi> Generati<g ref="char:EOLhyphen"/>on,) and without all doubt, are comprehended within the bowels of this prodigious Character, all <hi>Schiſmaticks, Re<g ref="char:EOLhyphen"/>bels, Traytors, Regicides, Tyrants</hi> and <hi>Uſurpers,</hi> (who, by their own <hi>proper</hi> Names and Titles, were by no means fit to be <hi>dignified</hi> or <hi>diſtinguiſhed,</hi> in ſuch a <hi>Pious</hi> and <hi>Po<g ref="char:EOLhyphen"/>litick</hi> Aſſociation) were cunningly and cloſely tyed up toge<g ref="char:EOLhyphen"/>ther with thoſe <hi>Knights</hi> in the <hi>Gordian</hi> Knot of this <hi>&amp;c.</hi>
+               </p>
+               <p>And they ſay, <hi>Finding to the grief of our Hearts, the Popiſh Prieſts and Ieſuites, with the Papiſts, and their Adherents and Abettors, have, for ſeveral years laſt paſt, purſued a moſt pernicious and Hel<g ref="char:EOLhyphen"/>liſh Plot, to root out the True Proteſtant Religion, as a peſtilent Hereſie, to take away the life of our Gracious King, to ſubvert our Laws and Liberties, and to ſet up Arbitrary Power and Popery.</hi>
+               </p>
+               <p>Here we have a Mask of zeal made up of a double pre<g ref="char:EOLhyphen"/>tence, <hi>Pro</hi> and <hi>Con,</hi> (1.) For <hi>The Proteſtant Religion, with the preſervation of the Kings Life, our Laws and Liber<g ref="char:EOLhyphen"/>ties.</hi> (2.) Againſt <hi>The Popiſh party, and their Abet<g ref="char:EOLhyphen"/>tors.</hi>
+               </p>
+               <p>But that we may not be perpetually bewitcht with theſe deluſions, it has been made apparent by a perſon of un<g ref="char:EOLhyphen"/>queſtionable knowledge and integrity<note n="*" place="margin">A ſhort view of the Troubles, <hi>c.</hi> 44. <hi>p.</hi> 588.</note>, <q rend="inline">That theſe great pretended Cham<g ref="char:EOLhyphen"/>pions for <hi>the Proteſtant Religion,
+<pb n="12" facs="tcp:66522:8"/>the Laws of the Land, the liberty of the Subject, and priviledges of Parliament,</hi> (for theſe are taken in, too, in this <hi>Aſſociation</hi>) made uſe of thoſe ſpecious pretences, for no other end, than to captivate the People, and by that means get the power of the Sword into their own mercileſs hands.</q> And (as that Worthy Author expo<g ref="char:EOLhyphen"/>ſtulates) <q rend="inline">were not there certain <hi>Propoſitions</hi> read in their Houſe of Commons,<note place="margin">P. 590.</note> (where this <hi>Aſſo<g ref="char:EOLhyphen"/>ciation</hi> was firſt ſpawn'd,) which were found in Mr. <hi>Salt<g ref="char:EOLhyphen"/>marſh</hi> his Trunk, near <hi>Hull:</hi> Firſt, That all means ſhould be uſed <hi>to keep the King and his People from a ſud<g ref="char:EOLhyphen"/>den Union.</hi> Secondly, <hi>To cheriſh the War, under the no<g ref="char:EOLhyphen"/>tion of Popery, as the ſureſt means to engage the People.</hi> Thirdly, If the King would not grant their demands, then <hi>to root him out of the Royal line,</hi> and collate the Crown upon ſome body elſe.</q>
+               </p>
+               <p>So that they ſerved themſelves of <hi>Popery</hi> for a pretence, and made the <hi>Prieſts</hi> and <hi>Jeſuites</hi> but their ſtalking Horſe, while they aim'd at other Game. If the <hi>Popiſh Prieſts and Jeſuites</hi> have a Deſign to retrieve what has been taken from the <hi>Pope</hi> and <hi>that</hi> Church that depends upon him, are not theſe <hi>Aſſociators</hi> equally intent and zealous to make a ſpoyl and <hi>booty</hi> of thoſe Church Revenues which are left? Is not their Religion and <hi>keeneſt</hi> zeal fed upon the Church<g ref="char:EOLhyphen"/>lands, which they have got into their poſſeſſion? And why do they ſtickle ſo earneſtly againſt the <hi>Pope,</hi> but to maintain that intereſt? If you could ſecure their fears and jea<g ref="char:EOLhyphen"/>louſies in this point, aſſure your ſelf, for the moſt part of them, their Conſciences are not ſo ſqueamiſh, but the <hi>Maſs</hi> would go down with them as eaſily as the <hi>Dire<g ref="char:EOLhyphen"/>ctory.</hi>
+               </p>
+               <pb n="13" facs="tcp:66522:8"/>
+               <p>'Tis very well obſerved, <q rend="inline">That the <hi>Rule</hi> for Doctrine, Worſhip and Diſcipline in the Church of <hi>England,</hi> at the Refor<g ref="char:EOLhyphen"/>mation,<note place="margin">A Vindication of the Pri<g ref="char:EOLhyphen"/>mitive Church, <hi>p.</hi> 275.</note> was at firſt received with univerſal joy and approbation, none but <hi>Papiſts</hi> oppoſing it; But ſome time after, ſome few diſcontented men, un<g ref="char:EOLhyphen"/>der pretence of zeal againſt <hi>Popery,</hi> took the part of the <hi>Papiſts</hi> againſt this <hi>Rule;</hi> and it is obſervable (ſaith that Author) that as one faction grew up and gathered ſtrength, ſo did the other; that ones right and left hand can hardly grow in evener proportion; ſo that one would fancy, that either they advanced by ſome ſecret <hi>Conſent,</hi> or were nouriſhed from the ſame common <hi>Stomach;</hi> It may be (ſaith he) from him that <hi>Ratavicini</hi> calls the <hi>Sto<g ref="char:EOLhyphen"/>mach,</hi> as well as the <hi>Head</hi> of the Church, the Pope.</q>
+               </p>
+               <p>Have not theſe pretended Proteſtants and <hi>Et caetera</hi>'s been eager (even to <hi>Sedition</hi> and <hi>Blood</hi>) to throw down the <hi>En<g ref="char:EOLhyphen"/>cloſure,</hi> to <hi>Repeal</hi> thoſe Laws, and <hi>ſubvert</hi> that Church-Government which have kept out Popery ever ſince the <hi>Reformation?</hi> Have they not given their <hi>Emiſſaries</hi> advan<g ref="char:EOLhyphen"/>tage by their Projected <hi>Toleration</hi> and <hi>Indulgence,</hi> and ſhelter'd the <hi>Prieſts</hi> and <hi>Jeſuites</hi> (whom they pretend to <hi>Aſſociate</hi> againſt) in their own <hi>Conventicles?</hi> Nay, to come home to the buſineſs, have not theſe men <hi>Rivall'd</hi> the Papiſts in their Treaſons? Have they not <hi>emulated</hi> them in their practices of <hi>Conſpiracy,</hi> and taken the <hi>Helliſh</hi> work of Deſtruction out of their Hands, and ſubverted both <hi>Church</hi> and <hi>State,</hi> while they pretended the <hi>Popiſh</hi> party did purſue it?</p>
+               <p>For, if we put in <hi>Fanaticiſm</hi> inſtead of <hi>Popery,</hi> and change the <hi>Popiſh Prieſts</hi> and <hi>Jeſuites,</hi> into <hi>Presbyterians</hi> and <hi>Inde<g ref="char:EOLhyphen"/>pendents,</hi> with their <hi>Adherents</hi> and <hi>Abettors</hi> the deſign (they ſet on foot) has not only been, for ſeveral years purſued,
+<pb n="14" facs="tcp:66522:9"/>but effectually <hi>performed</hi> and really <hi>executed,</hi> as we very well remember by ſad and woful experience. For did they not <hi>root out</hi> the True Proteſtant Religion, eſtabliſht here by the <hi>Authority</hi> of pious <hi>Princes,</hi> as well as the <hi>Blood</hi> of Holy <hi>Martyrs?</hi> Did they not take away the <hi>Life</hi> of our moſt <hi>Gracious King,</hi> the moſt incomparable Prince of Chriſtendome? Did they not ſubvert our <hi>Laws</hi> and <hi>Li<g ref="char:EOLhyphen"/>berties,</hi> and ſet up <hi>Arbitrary Power</hi> amongſt us? All this they did moſt accurſedly accompliſh to the aſtoniſhment of all Chriſtendome: And yet we have reaſon to believe, that ſuch of theſe <hi>Aſſociators</hi> as were ingaged in it (and perhaps they were not a few) never lookt upon't as ſuch a pernicious and Helliſh <hi>Plot,</hi> nor were toucht with ſuch <hi>Remorſe and grief of Heart,</hi> for that <hi>actual Guilt and Notorious Crime,</hi> as they pretend to have upon the account of this, which is but their own <hi>jealouſie</hi> and <hi>ſurmiſe.</hi>
+               </p>
+               <p>That the moſt prudent and faithful <hi>Miniſters</hi> of <hi>State</hi> cannot eſcape their <hi>Malicious</hi> Inſinuations, we are not at all to wonder at: 'Tis the frequent practice of all <hi>Male<g ref="char:EOLhyphen"/>contents,</hi> when they become <hi>Seditious:</hi> For though it be the <hi>Majeſty</hi> of the Government they aim at, yet they think they can no way wound <hi>That,</hi> with ſo much ſafety, and to ſo great effect, as through the ſides of ſuch Worthy <hi>Mini<g ref="char:EOLhyphen"/>ſters.</hi>
+               </p>
+               <p>To traduce the <hi>Duke</hi> is the main Deſign of this <hi>Aſſocia<g ref="char:EOLhyphen"/>tion.</hi> And indeed, if we well obſerve it, 'tis an unuſual ſtrain of Modeſty in them, that they do not poſitively, as well as by implication, impute it to <hi>the Deviliſh Malice, and deſire of Revenge</hi> in his <hi>Royal Highneſs,</hi> that his <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> is <hi>in continual hazard of being Murdered, to make way for his own advancement to the Crown.</hi> For they ſay expreſsly, <hi>That by his Influence, Mercenary forces have been levied, and kept on foot for his ſecret Deſigns:</hi>
+                  <pb n="15" facs="tcp:66522:9"/>Which, it ſeems, are not ſo <hi>ſecret</hi> but they can, if not penetrate, yet conjecture and imagine them. But as the King is moſt concerned herein, ſo hath he beſt opportunity to examine it and find it out, if there were any truth in't, or colour for it.</p>
+               <p>Whereas it is ſuggeſted, that <hi>the levying of thoſe Forces was unaccountable,</hi> their <hi>Disbanding difficult, and at the Kingdoms great expence:</hi> There's not a little Malice coucht in that allegation. To what purpoſe <hi>thoſe</hi> Forces were raiſed, is not unknown to ſuch as have a mind to underſtand; and the Service which ſome of them perform'd, was not <hi>ſecret,</hi> but in the open <hi>Field,</hi> and ſo <hi>eminent,</hi> that Foreign States and Princes will remember it to their Honour.</p>
+               <p>But let them ask themſelves this queſtion, were <hi>Crom<g ref="char:EOLhyphen"/>wel</hi>'s Forces Levied, or kept up, or Disbanded, without the Kingdoms great expence? Or will the Forces deſign'd by theſe <hi>Aſſociators</hi> be raiſed without money? and will not their <hi>Officers</hi> and <hi>Conductors</hi> expect their Pay? and at whoſe charge muſt all this be? and how ſhall they be Disbanded? do they Promiſe and Vow here, that <hi>They will never Separate themſelves from this Aſſociation, or fail in the proſecution thereof during their lives?</hi> And (if they were once in Arms) we might believe them, though they were not engag'd upon ſuch <hi>Temporal</hi> and <hi>Eternal pain</hi> as is due to <hi>Perjur'd</hi> perſons.</p>
+               <p>This <hi>Party</hi> hath ſometimes been very earneſt to <hi>em<g ref="char:EOLhyphen"/>broil</hi> his Majeſty in a War with the <hi>French</hi> King, but without any <hi>fond</hi> or conſiderable <hi>Subſidy</hi> to maintain it. To what end this was projected, wiſe men will judge, but I ſhall forbear to mention.</p>
+               <pb n="16" facs="tcp:66522:10"/>
+               <p>But becauſe they cannot ſo eaſily embroil his Majeſty <hi>abroad,</hi> they reſolve to do it <hi>at home.</hi> To this effect, ſeveral <hi>Plots</hi> have been ſet a foot, and they have made their utmoſt advantage of them. And becauſe the great <hi>obſtacle</hi> (which is their greateſt <hi>Grievance</hi> too) is, <hi>The</hi> Militia <hi>in the Kings hand;</hi> They deſign very dutifully (no doubt) to ſeize it without his leave, that they may have it once again in their Power, to ſet up <hi>Committees</hi> of <hi>Publi<g ref="char:EOLhyphen"/>cans</hi> in every County, to make <hi>Delinquents,</hi> and then to <hi>Tax, Decimate</hi> and <hi>Sequeſter,</hi> or make them <hi>Compound</hi> for their <hi>own</hi> Eſtates at their pleaſure: And what will follow but a <hi>High Court of Juſtice,</hi> to bring <hi>whom</hi> they pleaſe, to (what they pleaſe to call) <hi>Condign puniſhment,</hi> and at laſt to extinguiſh (as much as in them lyes) the <hi>Royal Family,</hi> and the <hi>Church</hi> of <hi>England,</hi> root and branch. And this ſhall be voted the <hi>Defence</hi> of the <hi>Proteſtant Re<g ref="char:EOLhyphen"/>ligion</hi> and our <hi>Liberties,</hi> without our <hi>Properties,</hi> the <hi>Laws</hi> and <hi>Government,</hi> againſt the encroachments of an <hi>Arbitrary Power.</hi> Yea, and the <hi>Janizaries</hi> they employ, ſhall not wear the name of <hi>Mercenary Souldiers,</hi> but be rewarded, as <hi>Cromwel</hi>'s were (for their good ſervice) and be <hi>honour</hi>'d with the Character and Title of <hi>Engliſh</hi> Free<g ref="char:EOLhyphen"/>men, and the <hi>Godly Party.</hi> Theſe are the <hi>Priviledges</hi> of the Saints.</p>
+               <p>But we uſe to ſay, <hi>The Burnt Child dreads the Fire:</hi> And I hope this <hi>Generous</hi> and <hi>Manly</hi> Nation is not grown too <hi>ſtupid</hi> to be taught by <hi>Proverbs,</hi> nor yet become ſo infatuated as to forget ſo freſh and chargeable an experi<g ref="char:EOLhyphen"/>ment.</p>
+               <pb n="17" facs="tcp:66522:10"/>
+               <p>But they take it for granted, <hi>'Tis notorious, that</hi> 
+                  <q rend="inline">the Po<g ref="char:EOLhyphen"/>piſh Prieſts and Jeſuits, with the Papiſts and their Adhe<g ref="char:EOLhyphen"/>rents, <hi>have been highly encouraged by the Countenance and Protection given and procured for them by</hi> J. D. <hi>of</hi> Y. and that <hi>He has publickly profeſs'd and own'd the Popiſh Religion.</hi>
+                  </q>
+               </p>
+               <p>This they peremptorily averr: but it can hardly be ima<g ref="char:EOLhyphen"/>gined, that <hi>Any</hi> free Prince, at this time of day, ſhould be ſo faſt aſleep, or ill adviſed, as to make himſelf the <hi>Pope's</hi> Vaſ<g ref="char:EOLhyphen"/>ſal, to admit a <hi>Supremacy</hi> into his Realm <hi>paramount</hi> to his own; To have his own Royal Authority <hi>confronted</hi> by the <hi>Check</hi> of foreign <hi>Bulls</hi> from <hi>Rome,</hi> or the <hi>Treaſure</hi> of his Kingdoms exhauſted by ſuch <hi>Engines</hi> of Extortion, as can ſerve him to no other end, but to endanger, impoveriſh, and inthrall him.</p>
+               <p>Conſider but the Senſe of the <hi>Greek</hi> Church, who will not brook that pretended Supremacy in the loweſt ſtate of their Declination; or the preſent Poſture and Reſentments of the <hi>French,</hi> who ſeem ſo weary of the <hi>Pope</hi>'s Inchroach<g ref="char:EOLhyphen"/>ments and Uſurpation, that they <hi>kick</hi> and <hi>wince,</hi> as if they were in pain and Travel, to throw his <hi>Holineſs</hi> out of the <hi>Saddle,</hi> in thoſe Dominions.</p>
+               <p>As for his <hi>Royal Highneſs,</hi> perhaps he may diſdain to have his Integrity queſtioned by a common <hi>Test:</hi> many times <hi>Great Spirits</hi> are irritated by ſuch Attempts, (which are therefore, for the moſt part, better let alone than put in pra<g ref="char:EOLhyphen"/>ctice;) they will not be forced by ſuch <hi>Screwed Engines</hi> to gratifie their Adverſaries with an open profeſſion of that, which notwithſtanding, in their Hearts they may moſt ſted<g ref="char:EOLhyphen"/>faſtly believe.</p>
+               <p>Yet we cannot take it for a wonder, if his <hi>Royal</hi> Magna<g ref="char:EOLhyphen"/>nimity, and the deep Reſentments he has for his Bleſſed <hi>Fa<g ref="char:EOLhyphen"/>ther</hi>'s Sufferings under the <hi>bloody</hi> hands of ſeditious Schiſma<g ref="char:EOLhyphen"/>ticks, will not ſuffer him to be <hi>hector'd</hi> by them into an Ap<g ref="char:EOLhyphen"/>probation of their <hi>Fanatical</hi> Deluſions.</p>
+               <pb n="18" facs="tcp:66522:11"/>
+               <p>But his <hi>Royal Highneſs</hi> is ſo well ſatisfied with the Church of <hi>England,</hi> as by Law <hi>establiſhed,</hi> that he profeſſeth a great Kindneſs and <hi>Veneration</hi> for it, for the very <hi>Loyalty</hi> remarka<g ref="char:EOLhyphen"/>ble in her Religion above all others; and for that Reaſon, upon all occaſions he declares his Readineſs to preſerve and ſupport it.</p>
+               <p>Nor have we only his <hi>Highneſs</hi>'s bare Word or Reſoluti<g ref="char:EOLhyphen"/>on to relye upon, his eminent <hi>Deeds</hi> are ſuch a ſignal Ex<g ref="char:EOLhyphen"/>emplification hereof in <hi>Scotland,</hi> that the Biſhops of that Kingdom have made their Profeſſion to my Lords <hi>Grace</hi> of <hi>Canterbury,</hi> in theſe Words;</p>
+               <p>
+                  <hi>We ſhould prove very defective in Duty and Gra<g ref="char:EOLhyphen"/>titude, if upon this occaſion we ſhould forget to ac<g ref="char:EOLhyphen"/>knowledge to your Grace how much this poor Church and our Order do owe to his Princely Care and Goodneſs,</hi>
+                  <note place="margin">Edenburgh, <hi>March</hi> 9. 1682.</note>
+                  <hi>that his Majeſty and the worthy Biſhops of</hi> England <hi>may from you receive the juſt Accounts thereof.</hi>
+               </p>
+               <p>
+                  <hi>Since his Royal Highneſs's coming to this Kingdom, we find our Caſe much chang'd to the better, and our Church and Order (which through the cunning and power of their Adverſaries, were expoſed to extream hazard and contempt) ſenſibly relieved and reſcued; which, next to the watchful Providence of God, (that mercifully ſuperintends his Church) we can aſcribe to no<g ref="char:EOLhyphen"/>thing ſo much as to his Royal Highneſs's gracious owning and vigilant protection of us.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon all occaſions he gives freſh Inſtances of his eminent Zeal againſt the moſt unreaſonable Schiſm, which by renting, threatens the Subverſion of our Church and Religion; and con<g ref="char:EOLhyphen"/>cerns himſelf, as a Patron to us in all our publick, and even perſonal Intereſts; ſo that all men take notice of his ſignal Kindneſs to us, and obſerve that he looks upon the Enemies of the Church, as Adverſaries to the Monarchy it ſelf: nor did we ever propoſe or offer to his Royal Highneſs any Rational Expedient which might conduce for the Relief or Security of the Church, which he did not readily embrace and effectuate.</hi>
+               </p>
+               <pb n="19" facs="tcp:66522:11"/>
+               <p>If <hi>Officers</hi> have been <hi>named</hi> and <hi>appointed</hi> by his <hi>Royal Highneſs,</hi> none can blame it, but ſuch as have an Ambition to get <hi>that</hi> Power into their own hands. And, if it were lodged in the hands of theſe <hi>Aſſociates,</hi> would the hazard of the King's Perſon, or of our Religion and Government be any whit leſs, or leſs apparent? Nay, we have learn'd by ſad Experience, that the danger would be greater, if their Ruine would not be inevitable.</p>
+               <p>But they ſay, his Highneſs <hi>has created many and great De<g ref="char:EOLhyphen"/>pendents upon him, by his beſtowing Offices and Preferments both in Church and State.</hi> A great Crime doubtleſs, in a Perſon that ſtands in that Relation the D. has to his Majeſty. The <hi>Church</hi> and <hi>State</hi> would be well ſerved if all <hi>Offices</hi> and <hi>Preferments</hi> were at <hi>their</hi> Diſpoſal, which is that <hi>their</hi> Ava<g ref="char:EOLhyphen"/>rice and Ambition thirſt and aim at.</p>
+               <p>But we hope his <hi>Highneſs</hi> has created no <hi>Dependents;</hi> that is, neither made choice of any Servants for himſelf, nor recommended any Officers to the King, but ſuch as are ac<g ref="char:EOLhyphen"/>cording to the <hi>Standard</hi> of his Wiſe and Renowned <hi>Grand<g ref="char:EOLhyphen"/>father;</hi> who adviſeth his Son thus:</p>
+               <p>
+                  <q rend="inline">Chooſe ſuch as come of a true and honeſt Race, and have not had the houſe whereof they are de<g ref="char:EOLhyphen"/>ſcended,<note place="margin">
+                        <hi>Baſilicon Doron.</hi> p. 47. to 49.</note> infected with Falſhood; ſuch as come of a good and vertuous kind. For 'tis moſt cer<g ref="char:EOLhyphen"/>tain, that Vertue or Vice will oftentimes with the Here<g ref="char:EOLhyphen"/>tage be transferred from the Parents to the Poſterity, and run on a Blood, (as the Proverb is) the Sickneſs of the Mind becoming as kindly to ſome Races as theſe Sickneſſes of the body that infect in the Seed.</q> 
+                  <hi>The King adviſes further;</hi>
+               </p>
+               <q>
+                  <p>See they be of a good Fame and without Blemiſh, and endued with ſuch honeſt Qualities as are meet for ſuch Offices as ye ordain them to ſerve in; that your Judg<g ref="char:EOLhyphen"/>ment
+<pb n="20" facs="tcp:66522:12"/>may be known in employing every Man according to his Gifts.</p>
+                  <p>But here I muſt not forget to remember, and accord<g ref="char:EOLhyphen"/>ing to my Fatherly Authority to charge you, to prefer ſpecially to your Service ſo many as have truly ſerved me, and are able for it:—truſting and advancing thoſe far<g ref="char:EOLhyphen"/>theſt whom I found faithfulleſt.— So ſhall ye not only be beſt ſerved, but ye ſhall kyth your thankful Memo<g ref="char:EOLhyphen"/>ry of your Father, and procure the Bleſſing of theſe old Servants, in not miſſing their old Maſter in you. And as I wiſh you to kyth your conſtant Love to<g ref="char:EOLhyphen"/>wards them that I loved, ſo to kyth in the ſame meaſure your conſtant Hatred to them that I hated; I mean, bring not home, nor reſtore not ſuch as ye find ſtanding baniſhed or fore-faulted by me:— for <hi>how can they be true to the Son that were falſe to the Father?</hi>
+                  </p>
+               </q>
+               <p>I hope, that both his <hi>Majesty</hi> and his <hi>Royal Highneſs</hi> may follow this grave and ſage Advice in the Choice of their <hi>Officers</hi> and <hi>Dependents,</hi> whether deſign'd to ſerve in Church or State; and then I am well aſſured, that few of theſe <hi>Aſſociators</hi> will hereafter be <hi>Candidates</hi> for Court-Preferments.</p>
+               <p>We ſhall ſee the <hi>Duke</hi>'s great Fault at laſt will be on<g ref="char:EOLhyphen"/>ly this, That he is <hi>wiſe</hi> and <hi>valiant, just</hi> and <hi>well-beloved, ſteady</hi> to his Word, and <hi>faithful</hi> to his Adherents; but that which is worſt of all in the Opinion of theſe <hi>Aſſo<g ref="char:EOLhyphen"/>ciates,</hi> is, That he is <hi>Preſumptive Heir</hi> to the <hi>Crown,</hi> and will ſuffer no <hi>Republican</hi> to pick out the <hi>Jewels,</hi> or pluck off the <hi>Feathers</hi> of it. But ſo long as he has ſo high an <hi>Affection</hi> and <hi>Reſpect</hi> for the King's Perſon, and gives Countenance and Encouragement to none but ſuch as are truly loyal and ſerviceable to his <hi>Majeſty,</hi> I hope 'twill be no Crime in His <hi>Royal</hi> Highneſs to make much of ſuch
+<pb n="21" facs="tcp:66522:12"/>as own and eſpouſe his <hi>Hereditary</hi> Intereſt, after the King's Example.</p>
+               <p>While theſe men boaſt of their <hi>continual Endeavours to de<g ref="char:EOLhyphen"/>liver his Majesty from the Councils and out of the Power of the Duke,</hi> they do but upbraid the King (as they did his Father of ever Bleſſed Memory) of <hi>Weakneſs,</hi> as not able to diſcern what belongs to his <hi>own</hi> Intereſt and Safety, nor to diſtin<g ref="char:EOLhyphen"/>guiſh betwixt his Friends and Enemies.</p>
+               <p>Under favour, this is but a courſe Complement to his Majeſty; the Wiſe Man hath taught us a better Leſſon,<note place="margin">
+                     <hi>Prov.</hi> 16.10.</note>
+                  <hi>That a Divine Sentence is in the Lips of the King;</hi> (and) <hi>his Mouth erreth not in Judgment.</hi> Had it not been for this Holy Oracle, we ſhould have been many times ſurpriſed at the celebrated Prudence of his Maje<g ref="char:EOLhyphen"/>ſties Conduct (when the Caſe has been moſt diffi<g ref="char:EOLhyphen"/>cult) in turning our Diſappointments into a Satisfa<g ref="char:EOLhyphen"/>ction.</p>
+               <p>Has not his Wiſdom appeared to Admiration, in ſtem<g ref="char:EOLhyphen"/>ming the <hi>Tyde,</hi> and checking the <hi>Waves</hi> of Popular Rage and Fury, when they ſeemed to threaten us with an Inunda<g ref="char:EOLhyphen"/>tion? Has he not taken the Seditious in their own Crafti<g ref="char:EOLhyphen"/>neſs, and made their own Tongues and Pens to fall upon themſelves, till they have been glad to take Sanctuary in an <hi>Ignoramus</hi> Jury?</p>
+               <p>That <hi>Parliaments</hi> have been unreaſonably <hi>Prorogued</hi> and <hi>Diſſolved,</hi> is another of their <hi>ſpecious</hi> Allegations: but his <hi>Majeſty</hi> has given ſuch ample Satisfaction, as ſu<g ref="char:EOLhyphen"/>perſedes all attempts of the like Nature; For, <hi>What can the Man do who cometh after the King?</hi>
+                  <note place="margin">
+                     <hi>Eccleſ.</hi> 2.12.</note> He that cannot acquieſce with great Content<g ref="char:EOLhyphen"/>ment in ſuch a <hi>Gracious Declaration,</hi> let him under<g ref="char:EOLhyphen"/>ſtand the Senſe of all <hi>Loyal</hi> Subjects in their ſolemn <hi>Addreſſes</hi> of Thankfulneſs upon that account. Do they not own it as an undoubted <hi>Copy</hi> of that <hi>Original</hi>
+                  <pb n="22" facs="tcp:66522:13"/>and tranſcendent Goodneſs which the Finger of God has impreſs'd upon his <hi>Royal</hi> Boſom? A <hi>Declaration</hi> ſo full of <hi>Princely Grace</hi> and <hi>Wiſdom,</hi> and generally ſo ſuitable to their Wiſhes, that it did but <hi>anticipate</hi> what of Duty (as well as Intereſt and Inclination) ſhould have been their own <hi>Petition?</hi> and that it left them no room, but for the lively Expreſſions of their Joy and Gratitude? And he that has not joyn'd his <hi>Suffrage</hi> with his Fellow-Subjects in ſuch a dutiful Acknowledgment, muſt certainly be a Member of this <hi>Society,</hi> or a well-Wiſher to it.</p>
+               <p>Though we have as great a Reverence for <hi>Parliaments</hi> as we ought, yet we cannot but reflect upon't with Grief, that the Compoſition of thoſe Aſſemblies have not of late proved ſo <hi>harmonious</hi> as the ſtate of Affairs required: which puts me in mind of what the Author of that ingenious <hi>Eſſay</hi> upon the Reign of <hi>Henry</hi> the <hi>Third</hi> has ob<g ref="char:EOLhyphen"/>ſerved,<note place="margin">
+                     <hi>Compendium politicum.</hi> pa. 36.</note> of ſuch a Convention of thoſe Times.</p>
+               <p>
+                  <q rend="inline">
+                     <hi>Thus</hi> (ſaith he) <hi>Parliaments, that were ever be<g ref="char:EOLhyphen"/>fore the moſt infallible Medicine to heal up any Diſtempers or Malignities, are now grown worſe, and almoſt leſs deſi<g ref="char:EOLhyphen"/>rous than the Maladies themſelves, ſince malevolent Humours and factious Spirits did moſt of all ſway in them, and the well compoſed Tempers had the leaſt ſhare and prevalency in all their Conſultations.</hi>
+                  </q> The Fruits and Effects of their un<g ref="char:EOLhyphen"/>limited <hi>Seſſion,</hi> who were call'd to Parliament in <hi>Forty One,</hi> we cannot but with bleeding Hearts remember. And what<g ref="char:EOLhyphen"/>ever reſpect they pretend to have for <hi>Parliaments,</hi> 'tis (as formerly) but to ſerve their own ends: for, (if they may have their own Will) according to the <hi>Project</hi> and Deſign laid in this <hi>Aſſociation,</hi> all <hi>Parliaments</hi> for the future (as they were once already in my own Memory) will be redu<g ref="char:EOLhyphen"/>ced (without a <hi>King</hi> or <hi>a Houſe of Lords</hi>) to a <hi>ſelect Pack</hi> of well-fleſh'd <hi>Rumpers,</hi> to do the <hi>Drudgery</hi> of their <hi>Army.</hi>
+               </p>
+               <pb n="23" facs="tcp:66522:13"/>
+               <p>The <hi>Bill</hi> of <hi>Excluſion</hi> and <hi>Baniſhment</hi> is ſo unreaſonable, and ſo <hi>abſolutely</hi> unjuſt, that we cannot look upon't as <hi>a means of the King and Kingdoms Safety.</hi> And if the D. be of ſuch a <hi>vindictive</hi> Spirit as they ſuggeſt, nay allow him but the <hi>Magnanimity</hi> that becomes his <hi>Highneſs,</hi> or the com<g ref="char:EOLhyphen"/>mon <hi>Reſentments</hi> of <hi>Humanity,</hi> and the <hi>paſſing</hi> ſuch a <hi>Bill</hi> had been ſo great and juſt a <hi>Provocation,</hi> it muſt needs have expoſed the King's <hi>Perſon</hi> to great <hi>hazard,</hi> and the Kingdom to the lamentable Fate of a <hi>Civil War,</hi> if not an <hi>inevitable Invaſion</hi> thereupon. And when we reflect upon the <hi>Riſe</hi> and <hi>Progreſs</hi> of our late Confuſions, (ſo black and diſmal in the Event, and ſo freſh in Memory) all good men can<g ref="char:EOLhyphen"/>not but be deeply ſenſible of his Majeſties great Care and Princely Wiſdom, in keeping us from the more dreadful Rage of ſuch a <hi>Rupture</hi> as the reſtleſs Malice of ill men ſtudy to promote, whether for the Accompliſhment of their own Ambition, or the ſetting up of their Darling <hi>Common<g ref="char:EOLhyphen"/>wealth.</hi>
+               </p>
+               <p>Whereas they ſay, <hi>They are perſuaded in their Conſciences, that the dangers they ſuggeſt are ſo eminent and preſſing, that there ought to be no delay of the beſt means in their power, to ſecure the Kingdom againſt them:</hi> We comfort our ſelves, that they are no Prophets, (though 'tis no hard matter to fore-tell what they do project, if it be in their Power to effect it,) and that this is not the firſt time they have at<g ref="char:EOLhyphen"/>tempted very ill things, (if not out of Malice, Ambition, and Deſign,) to make the beſt on't, upon the account of an <hi>erroneous</hi> Conſcience.</p>
+               <p>And whereas they ſay, <hi>They are intruſted to adviſe and act for the preſervation of his Majeſty and the Kingdom:</hi> We are ſatisfied, that they are no farther intruſted by the Laws and Loyal Commons of <hi>England,</hi> than may conſiſt with their Duty and Allegiance; that is, no farther than the King ſhall pleaſe to require their Advice, and allow them to act by
+<pb n="24" facs="tcp:66522:14"/>his Direction or Conſent. Whereupon, the ſo much Re<g ref="char:EOLhyphen"/>nowned Queen <hi>Elizabeth</hi> commanded the <hi>Speaker</hi> to tell the (then) Houſe of <hi>Commons</hi> (thus) in her Majeſties Name,<note place="margin">In the 35. of her Reign. 1592.</note>
+                  <note place="margin">Townſhend's Hiſto<g ref="char:EOLhyphen"/>rical Collect. <hi>p. 63.</hi>
+                  </note>
+                  <hi>It is in me and my power to call Parliaments; and it is in my power to end and determine the ſame; it is in my power to aſ<g ref="char:EOLhyphen"/>ſent or diſſent to any thing done in Parliament.</hi>
+               </p>
+               <p>Conſequently hereunto, though they call this <hi>Aſſociation the beſt means that are in their power to ſecure the Kingdom,</hi> we are well aſſured, that it is not in their Power at all when the King forbids it,<note place="margin">Sed tantum poſ<g ref="char:EOLhyphen"/>ſumus quod jure poſſumus.</note> and (as in Reaſon and Juſtice in this Caſe he may and ought) declares it a Deſign to ſubvert both his <hi>Prerogative</hi> and <hi>Government.</hi>
+               </p>
+               <p>For to be plain with you, in this deteſtable Contrivance which is here recommended under the ſpecious Title of an <hi>Aſſociation,</hi> every man of Senſe may obſerve with half an Eye, what the Hypocriſie and Subtilty of thoſe ill men have projected, <hi>to ſet up themſelves,</hi> upon the Ruins of the <hi>Royal</hi> Family, the <hi>Engliſh</hi> Proteſtant Church and Nation. For,</p>
+               <list>
+                  <item>1. To ſecure his Majeſty's <hi>Sacred Perſon,</hi> they'll diſband his <hi>Guards,</hi> and remove his Faithful <hi>Miniſters.</hi>
+                  </item>
+                  <item>2. To preſerve his <hi>Royal State</hi> and Dignity, they'll cut off the <hi>Succeſſion,</hi> and baniſh his dear and only <hi>Brother</hi> out of his Dominions.</item>
+                  <item>3. To ſupport his <hi>Crown,</hi> they'll <hi>uſurp</hi> the Government into their own hands, and turn it into a <hi>Military</hi> State of <hi>Saſety.</hi>
+                  </item>
+                  <pb n="25" facs="tcp:66522:14"/>
+                  <item>4. For the Honour of their <hi>Country,</hi> they'll ſubvert that which (to all <hi>Loyal</hi> Subjects, and in the Eſtimation of all wiſe and ſober perſons) is the happieſt <hi>Monarchy</hi> under Heaven.</item>
+                  <item>5. That out <hi>Properties, Laws,</hi> and <hi>Liberties</hi> may be kept inviolable, they'll ſet up an <hi>Arbitrary Power,</hi> and ſome Regiments of <hi>Janizaries,</hi> to rule over us, and make us <hi>Slaves</hi> to our Fellow-Subjects.</item>
+                  <item>6. To defend <hi>Religion,</hi> they'll not conſult a Legal and Learned <hi>Convocation;</hi> but they'll lay aſide the <hi>decent</hi> and <hi>distinctive</hi> Garment of the <hi>Miniſter,</hi> they'll take away the <hi>Croſs</hi> in Baptiſm, that ancient <hi>Badge</hi> of Catholick and Primitive Chriſtianity; they'll abandon <hi>kneeling</hi> at the <hi>Sacrament,</hi> with all <hi>external Adoration;</hi> they'll turn the <hi>Reverend</hi> Biſhops out of the Houſe of Lords, and <hi>re<g ref="char:EOLhyphen"/>peal</hi> thoſe <hi>Acts</hi> by which <hi>
+                        <g ref="char:V">Ʋ</g>niformity</hi> in the Worſhip and Service of God, ſtands eſtabliſhed; and ſo deſtroy (the <hi>Bulwark</hi> of the <hi>Reformation</hi>) the beſt Proteſtant Church in <hi>Chriſtendom.</hi> All which Particulars, here enumerated, are the <hi>viſible</hi> and <hi>avowed</hi> Deſigns of this <hi>Society</hi> and their <hi>Aſſociation.</hi>
+                  </item>
+               </list>
+               <p>To effect all this, they'll <hi>wreſt</hi> the <hi>Sword</hi> out of the King's hands, and appoint <hi>Officers</hi> of their <hi>own,</hi> to <hi>levy, diſcipline,</hi> and <hi>conduct</hi> Forces (how far they'll be <hi>Merce<g ref="char:EOLhyphen"/>nary</hi> we deſire not to make experiment) without his <hi>Majeſty</hi>'s Conſent, and to purſue to <hi>Deſtruction</hi> all ſuch as ſhall <hi>oppoſe</hi> them.</p>
+               <p>And for all this, we have not only their Lives and Fortunes engaged, under their <hi>Hands</hi> and <hi>Seals;</hi> but
+<pb n="26" facs="tcp:66522:15"/>their ſolemn <hi>Promiſe, Vow,</hi> and <hi>Proteſtation</hi> in the Pre<g ref="char:EOLhyphen"/>ſence of Almighty God.</p>
+               <p>So that here is a <hi>Deſign</hi> and <hi>Train</hi> laid, to act over again the ſame <hi>Scene</hi> of <hi>Treaſon</hi> and <hi>Rebellion</hi> which has once already (and within our Memory) turn'd this our flouriſhing Kingdom into an <hi>Aceldama,</hi> and ſmothered the Glory of it in Confuſion.</p>
+               <p>An <hi>Aſſociation</hi> this is, ſo <hi>hypocritical</hi> in the <hi>Diſguiſe,</hi> ſo <hi>deviliſh</hi> in the <hi>Deſign,</hi> and ſo <hi>deſtructive</hi> in the <hi>Tendency</hi> of it, That what <hi>Knights</hi> or <hi>Et Caetera</hi>'s ſoever they be, that pretend to give it Countenance (in the <hi>Front</hi> of it) we are ſure it could no more be <hi>ſubſcrib'd</hi> (or tendered to Subſcription) by Subjects that have any <hi>Senſe</hi> or <hi>Con<g ref="char:EOLhyphen"/>ſcience</hi> of their <hi>Duty,</hi> than aſſented to by any <hi>Prince</hi> that has Regard to his own <hi>Prerogative,</hi> or the <hi>Welfare</hi> of his People and the Church of God.</p>
+               <p>In a ſad Reſentment whereof, we find that all <hi>Loyal</hi> Subjects do humbly <hi>protest</hi> their utter <hi>Abhorrence</hi> of the ſaid <hi>Aſſociation,</hi> with all other <hi>Plots, Deſigns,</hi> and <hi>Pra<g ref="char:EOLhyphen"/>ctices</hi> of the like Nature; and we ſee alſo, they reſolve not only to <hi>deprecate</hi> them in their <hi>Litany,</hi> (wherein we beg Deliverance from all <hi>Sedition, Privy Conſpiracy,</hi> and <hi>Rebellion</hi>) but alſo to engage their <hi>Lives</hi> and <hi>Fortunes</hi> under his <hi>Majeſty</hi> and his Lawful <hi>Succeſſors,</hi> to ſuppreſs them.</p>
+               <p>'Tis true, as you obſerve, the pretences of <hi>Zeal</hi> and <hi>Piety</hi> (for <hi>Religion, King,</hi> and <hi>Country</hi>) are too apt to gratifie the good meaning of ſome, and to impoſe upon the weakneſs of others. And I am not ignorant, that ſuch
+<pb n="27" facs="tcp:66522:15"/>
+                  <hi>Inſinuations</hi> have prevailed ſo far with many, as to make them ready to ſubmit their Necks to the ſame Yoke which gall'd us formerly, and to become Slaves a ſecond time to the Deſigns of <hi>Faction,</hi> and the Luſts of their Fellow-Subjects.</p>
+               <p>But when a ſtupid <hi>Infatuation</hi> has prevailed with ſuch <hi>eaſie</hi> men, to put on the like Chains with their own hands, we eſteem it not the leaſt of our happineſs, that 'tis ſtill in his <hi>Majeſty</hi>'s Power to knock them off, and reprieve us from that Thraldom.</p>
+               <p>I tell you not my own <hi>ſingle</hi> Senſe, but the Senſe of all <hi>Loyal</hi> and <hi>Sober</hi> men, that being taught by ſo late Expe<g ref="char:EOLhyphen"/>rience, that ſuch as ſnatch at the <hi>Jewels</hi> of the Crown can never think themſelves ſecure of that <hi>Booty,</hi> till our <hi>Pro<g ref="char:EOLhyphen"/>perty</hi> becomes their Prey too, (as it was in the late <hi>Rebel<g ref="char:EOLhyphen"/>lion,</hi> which began with an <hi>Aſſociation</hi>) we are highly ob<g ref="char:EOLhyphen"/>liged to his Majeſties <hi>Fatherly</hi> Care and Tenderneſs, that he will not more ſuffer an <hi>Arbitrary Power</hi> to inſult over his Subjects <hi>Liberty</hi> than to invade his own <hi>Prerogative.</hi>
+               </p>
+               <p>And the Senſe his Majeſty is pleaſed to expreſs of our ſad Affliction or Bondage under the late <hi>Tyranny</hi> of <hi>Hy<g ref="char:EOLhyphen"/>pocritical</hi> Reformers, gives us an aſſured Confidence, that ſo <hi>Divine</hi> a Clemency (as ſhines in him) can never delight to hear us groan under the like oppreſſions.</p>
+               <p>And His <hi>Royal</hi> Word to ſecure us againſt the Attempts of it in <hi>others,</hi> as well as againſt the practice of it in his own <hi>Diſpenſations,</hi> is a <hi>Superſedeas</hi> to all our Doubts and Scruples upon that account.</p>
+               <pb n="28" facs="tcp:66522:16"/>
+               <p>And having the ſame Security for the full Fruition of our <hi>Religion,</hi> in this Church eſtabliſhed, (the moſt ſteady and inflexible <hi>Prop</hi> and <hi>Bulwark</hi> of the <hi>Throne,</hi> which therefore makes it no leſs his Majeſties <hi>Intereſt</hi> than his <hi>Obligation</hi> and <hi>Piety</hi> to ſupport it) we cannot conceive it in any Danger unleſs betray'd by a <hi>Latitudinarian Neu<g ref="char:EOLhyphen"/>trality,</hi> or our own froward <hi>Schiſms</hi> and <hi>Diſſentions.</hi> And we ſhould be ſecure enough in this point too if we could be timely awakened to conſult our own Safety, and <hi>unanimouſly</hi> agree to make the known Laws the <hi>Standard</hi> of our <hi>Duty,</hi> as his Majeſty has graciouſly re<g ref="char:EOLhyphen"/>ſolved to make them the <hi>Rule</hi> of his own Government.</p>
+               <p>After ſuch Agonies as we have conflicted with through the neglect hereof, the concurrent Practiſe of this Rule would be the beſt Atonement of our Differences, and the Enſurance of our Concord. This would extinguiſh all our preſent <hi>Plots,</hi> and prevent the Emergency of the like <hi>Projects</hi> for the future; then the Kingdom would be ſet<g ref="char:EOLhyphen"/>led in <hi>Peace,</hi> the Church in <hi>Order,</hi> and all ſorts of men become <hi>conformable</hi> in a due Obedience. <hi>Succeſſion</hi> would be no more diſputed, the Government no more <hi>libell'd,</hi> Loyalty no more <hi>defam'd,</hi> nor the <hi>Dutiful</hi> perſecuted by the Tongues or Pens of the <hi>Malicious,</hi> the Pillow of the Crown would be no longer ſtuff'd with <hi>Thorus,</hi> His Majeſties <hi>Throne</hi> would become <hi>ſafe</hi> and <hi>eaſie,</hi> his <hi>Sword</hi> victorious, and his Royal <hi>Scepter</hi> had in Veneration.</p>
+               <p>And ſeeing His Majeſty has even prevent<g ref="char:EOLhyphen"/>ed our moſt early <hi>Addreſſes,</hi>
+                  <note place="margin">Peruſe His Ma<g ref="char:EOLhyphen"/>jeſties Gracious Declaration.</note> in profeſſing that to be his <hi>Royal</hi> Will and Reſolution, which ſhould have been our Prayer and Op<g ref="char:EOLhyphen"/>tion; and having his <hi>Sacred</hi> Word (publiſhed in the
+<pb n="29" facs="tcp:66522:16"/>face of all <hi>Congregations,</hi> before the Preſence of the Al<g ref="char:EOLhyphen"/>mighty) to ſecure <hi>All</hi> we can account <hi>dear</hi> to us; there remains nothing for us to Act but the part of <hi>Loyal</hi> and <hi>Obedient</hi> Subjects, to inable His Majeſty to triumph in a <hi>ſerene</hi> Felicity, maugre the petulant frowardneſs and treachery of all undermining Factions.</p>
+               <p>To this end, our Gratitude and bounden Duty puts us under theſe ſeveral Obligations.</p>
+               <list>
+                  <item>1. To abandon thoſe <hi>Fears</hi> and <hi>Jealouſies</hi> which crafty and Deſigning-men (whether out of <hi>Avarice</hi> or <hi>Ambi<g ref="char:EOLhyphen"/>tion</hi>) are wont to ſuggeſt and raiſe, to poyſon us with <hi>Diſcontents,</hi> and bewitch us into <hi>Tumults.</hi>
+                  </item>
+                  <item>2. To reley upon His Majeſties Royal <hi>Word,</hi> His Prince<g ref="char:EOLhyphen"/>ly <hi>Wiſdom,</hi> and Watchful <hi>Conduct</hi> to protect us in our <hi>Perſons,</hi> in our <hi>Laws,</hi> in our <hi>Religion</hi> and <hi>Liberties.</hi>
+                  </item>
+                  <item>3. To aſſiſt His Majeſty with due Supplies, and the utmoſt Endeavours that the higheſt Loyalty and Affecti<g ref="char:EOLhyphen"/>on can contribute to make his Reign Glorious.</item>
+                  <item>4. To exalt His Majeſties Eſteem and <hi>Grandeur,</hi> that He may ſtill be courted to hold the <hi>Balance,</hi> and to eſta<g ref="char:EOLhyphen"/>bliſh the General Peace of <hi>Chriſtendom.</hi>
+                  </item>
+                  <item>5. To make our Acknowledgments legible in our <hi>Pra<g ref="char:EOLhyphen"/>ctice,</hi> by a <hi>Regular</hi> and <hi>
+                        <g ref="char:V">Ʋ</g>niform Obedience,</hi> and a hearty Compliance with all <hi>emergent</hi> Advantages, that may pro<g ref="char:EOLhyphen"/>mote his Eaſe and Royal Satisfaction.</item>
+                  <pb n="30" facs="tcp:66522:17"/>
+                  <item>6. To ſupplicate on His Majeſties behalf, a long Life, and a vigorous Health, and a Divine Aſſiſtance; that (for the good of theſe Nations) the <hi>thred</hi> of his pre<g ref="char:EOLhyphen"/>cious Life, (upon which our Happineſs ſo much de<g ref="char:EOLhyphen"/>pends) may be twiſted with all the Bleſſings of Hea<g ref="char:EOLhyphen"/>ven and Earth, and drawn out in an <hi>even</hi> line of <hi>Content<g ref="char:EOLhyphen"/>ment,</hi> to the utmoſt extent and period. <hi>Amen.</hi>
+                  </item>
+               </list>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>ISA. 8.12, 13, 14.</hi>
+                     </bibl>
+                     <p>Say ye not, A Confederacy, to all them to whom this Peo<g ref="char:EOLhyphen"/>ple ſhall ſay, A Confederacy; neither fear ye their Fear, nor be afraid.</p>
+                     <p>Sanctifie the Lord of Hoſts Himſelf, and let him be your fear, and let him be your dread;</p>
+                     <p>And he ſhall be for a Sanctuary.</p>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
